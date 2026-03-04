@@ -1,0 +1,16 @@
+com\example\etoms\model\User.class
+com\example\etoms\exception\GlobalExceptionHandler.class
+com\example\etoms\controller\UserController.class
+com\example\etoms\model\Project.class
+com\example\etoms\repository\TaskRepository.class
+com\example\etoms\service\TaskService.class
+com\example\etoms\controller\TaskController.class
+com\example\etoms\controller\ProjectController.class
+com\example\etoms\EtomsApplication.class
+com\example\etoms\model\Task.class
+com\example\etoms\model\TaskRequest.class
+com\example\etoms\model\StatusRequest.class
+com\example\etoms\repository\ProjectRepository.class
+com\example\etoms\repository\UserRepository.class
+com\example\etoms\service\ProjectService.class
+com\example\etoms\service\UserService.class
